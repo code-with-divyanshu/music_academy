@@ -13,6 +13,7 @@ export default function Home() {
       <FeturedCourses />
       <WhyChooseUs />
       <TestimonialCards />
+      <UpcomingWebinars />
     </main>
   );
 }
