@@ -12,10 +12,6 @@ export default function Home() {
       <HeroSection />
       <FeturedCourses />
       <WhyChooseUs />
-      <TestimonialCards />
-      <UpcomingWebinars />
-      <Instructors />
-      <Footer />
     </main>
   );
 }
