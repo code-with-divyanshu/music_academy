@@ -54,7 +54,7 @@ function MusicSchoolContactUs() {
           <Button
             borderRadius="1.75rem"
             type="submit"
-            className="px-6 py-2 rounded-lg bg-blue-500 text-white font-medium hover:bg-teal-600 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
+            className="px-6 py-2 rounded-lg bg-cyan-800 text-white font-medium hover:bg-teal-600 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
           >
             Send Message
           </Button>
