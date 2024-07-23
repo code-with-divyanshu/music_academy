@@ -8,7 +8,8 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/guitar.jpg",
+      "courseType": "basic"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/piano.jpg"
+      "image": "/courses/piano.jpg",
+      "courseType": "basic"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/vocalist.jpg"
+      "image": "/courses/vocalist.jpg",
+      "courseType": "advance"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": true,
-      "image": "/courses/drumming.jpg"
+      "image": "/courses/drumming.jpg",
+      "courseType": "advance"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "price": 139.99,
       "instructor": "Chris Davis",
       "isFeatured": false,
-      "image": "/courses/jazz.jpg"
+      "image": "/courses/jazz.jpg",
+      "courseType": "advance"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/courses/music-prod.jpg",
+      "courseType": "musicProduction"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": false,
-      "image": "/courses/song-writing.jpg"
+      "image": "/courses/song-writing.jpg",
+      "courseType": "songwrite"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/22/21/mixer-1284507_640.jpg",
+      "courseType": "musicProduction"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": false,
-      "image": "/courses/classical-music.jpg"
+      "image": "/courses/classical-music.jpg",
+      "courseType": "basic"
     },
     {
       "id": 10,
@@ -98,7 +107,129 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/blues.jpg"
+      "image": "/courses/blues.jpg",
+      "courseType": "advance"
+    },
+    {
+      "id": 11,
+      "title": "Understanding Music Theory",
+      "slug": "understanding-music-theory",
+      "description": "Gain a comprehensive understanding of music theory to enhance your musical abilities.",
+      "price": 89.99,
+      "instructor": "Sarah Black",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg",
+      "courseType": "basic"
+    },
+    {
+      "id": 12,
+      "title": "Jazz Theory and Harmony",
+      "slug": "jazz-theory-harmony",
+      "description": "Learn the theory and harmony behind jazz music to take your playing to the next level.",
+      "price": 139.99,
+      "instructor": "David Clarke",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+      "courseType": "advance"
+    },
+    {
+      "id": 13,
+      "title": "Advanced Music Production",
+      "slug": "advanced-music-production",
+      "description": "Take your music production skills to the next level with advanced techniques and tools.",
+      "price": 199.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8",
+      "courseType": "musicProduction"
+    },
+    {
+      "id": 14,
+      "title": "Songwriting for Professionals",
+      "slug": "songwriting-for-professionals",
+      "description": "Hone your songwriting skills to create hit songs with industry-standard techniques.",
+      "price": 179.99,
+      "instructor": "Olivia Johnson",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2019/04/10/23/54/instrument-4118588_640.jpg",
+      "courseType": "songwrite"
+    },
+    {
+      "id": 15,
+      "title": "Advanced Jazz Techniques",
+      "slug": "advanced-jazz-techniques",
+      "description": "Learn advanced jazz techniques to enhance your improvisation and performance.",
+      "price": 199.99,
+      "instructor": "William Green",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2014/07/10/11/19/tuba-388989_640.jpg",
+      "courseType": "advance"
+    },
+    {
+      "id": 16,
+      "title": "Modern Electronic Music Production",
+      "slug": "modern-electronic-music-production",
+      "description": "Stay ahead in the world of electronic music with modern production techniques and trends.",
+      "price": 229.99,
+      "instructor": "Lucas White",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2019/12/27/14/29/vinyl-4722544_640.jpg",
+      "courseType": "musicProduction"
+    },
+    {
+      "id": 17,
+      "title": "Pop Songwriting",
+      "slug": "pop-songwriting",
+      "description": "Learn the techniques and secrets to writing successful pop songs.",
+      "price": 189.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2021/04/10/21/45/music-book-6168179_640.jpg",
+      "courseType": "songwrite"
+    },
+    {
+      "id": 19,
+      "title": "Electronic Music Production for Beginners",
+      "slug": "electronic-music-production-for-beginners",
+      "description": "Start your journey in electronic music production with this beginner-friendly course.",
+      "price": 149.99,
+      "instructor": "Rachel Brown",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2019/11/02/01/15/headphones-4595492_640.jpg",
+      "courseType": "musicProduction"
+    },
+    {
+      "id": 21,
+      "title": "Folk Songwriting",
+      "slug": "folk-songwriting",
+      "description": "Explore the art of folk songwriting to tell stories through your music.",
+      "price": 159.99,
+      "instructor": "Laura Moore",
+      "isFeatured": false,
+      "image": "https://cdn.pixabay.com/photo/2016/04/30/14/58/music-1363069_640.jpg",
+      "courseType": "songwrite"
+    },
+    {
+      "id": 23,
+      "title": "Classical Piano Techniques",
+      "slug": "classical-piano-techniques",
+      "description": "Master the techniques of classical piano to improve your performance.",
+      "price": 179.99,
+      "instructor": "Natalie Lewis",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1577297568245-d4e5bef64f3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D",
+      "courseType": "basic"
+    },
+    {
+      "id": 24,
+      "title": "Music Theory for Beginners",
+      "slug": "music-theory-for-beginners",
+      "description": "Learn the basics of music theory to enhance your understanding of music.",
+      "price": 89.99,
+      "instructor": "Daniel Scott",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+      "courseType": "basic"
     }
   ]
 }

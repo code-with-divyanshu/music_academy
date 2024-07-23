@@ -1,0 +1,94 @@
+{
+  "webinars": [
+    {
+      "id": 1,
+      "title": "Understanding Music Theory",
+      "description": "Dive deep into the fundamentals of music theory and enhance your musical skills.",
+      "slug": "understanding-music-theory",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "title": "The Art of Songwriting",
+      "description": "Learn the craft of songwriting from experienced musicians and songwriters.",
+      "slug": "the-art-of-songwriting",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1643240150781-379a783242a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHx8",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "title": "Mastering Your Instrument",
+      "description": "Advanced techniques to master your musical instrument of choice.",
+      "slug": "mastering-your-instrument",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1512053459797-38c3a066cabd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+      "price": 69.99
+    },
+    {
+      "id": 4,
+      "title": "Music Production Essentials",
+      "description": "Get started with music production with this comprehensive overview.",
+      "slug": "music-production-essentials",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "title": "Live Performance Techniques",
+      "description": "Enhance your live performance skills with expert tips and strategies.",
+      "slug": "live-performance-techniques",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D",
+      "price": 39.99
+    },
+    {
+      "id": 6,
+      "title": "Digital Music Marketing",
+      "description": "Learn how to promote your music effectively in the digital age.",
+      "slug": "digital-music-marketing",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1507245921392-e902673ca772?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHx8",
+      "price": 59.99
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Music History",
+      "description": "Explore the evolution of music from ancient times to the modern era.",
+      "slug": "introduction-to-music-history",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1502205403960-618401e1ad98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+      "price": 29.99
+    },
+    {
+      "id": 8,
+      "title": "Basics of Music Notation",
+      "description": "Understand the fundamentals of music notation and how to read sheet music.",
+      "slug": "basics-of-music-notation",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+      "price": 24.99
+    },
+    {
+      "id": 9,
+      "title": "The Business of Music",
+      "description": "Gain insights into the music industry and learn how to navigate its business aspects.",
+      "slug": "the-business-of-music",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1600779547877-be592ef5aad3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+      "price": 49.99
+    },
+    {
+      "id": 10,
+      "title": "Vocal Training for Beginners",
+      "description": "Learn the basics of vocal training and improve your singing skills.",
+      "slug": "vocal-training-for-beginners",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1489602642804-64dea1e3ebc1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 34.99
+    }
+  ]
+}
